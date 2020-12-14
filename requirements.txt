@@ -1,0 +1,3 @@
+Pillow
+efficientnet-pytorch==0.7.0
+tensorboard
